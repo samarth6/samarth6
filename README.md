@@ -39,31 +39,5 @@
 
 ---
 
-## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=samarth6&theme=tokyonight&hide_border=true" />
-  <img src="https://streak-stats.demolab.com/?user=samarth6&theme=tokyonight&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=samarth6&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samarth6&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
----
-
-## ⚡ Fun Fact  
-
-> I enjoy turning complex ML concepts into real-world applications 🚀  
-
----
-
-⭐ *Always open to collaborations, internships, and exciting AI projects!*
