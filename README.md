@@ -1,8 +1,8 @@
 # 👋 Hey, I'm Samarth Kaushik  
 
-🚀 3rd Year Computer Science Student | Delhi  
-🧠 Aspiring ML & AI Engineer 
-⚡ Passionate about building real-world AI systems  
+🚀 3rd Year Computer Science Student | Delhi
+🧠 Aspiring ML & AI Engineer
+⚡ Passionate about building real-world AI systems
 
 ---
 
