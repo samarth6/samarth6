@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Samarth Kaushik  
 
 🚀 2nd Year Computer Science Student | Delhi  
-🧠 Aspiring ML Engineer & Data Analyst  
+🧠 Aspiring ML & AI Engineer 
 ⚡ Passionate about building real-world AI systems  
 
 ---
@@ -10,7 +10,7 @@
 
 - 🔭 Currently working on **Deep Learning & Transformer-based models**  
 - 🤖 Exploring **fine-tuning, embeddings & applied ML systems**  
-- 📊 Strong interest in **Data Analytics & visualization**  
+- 📊 Strong interest in **Data Science & Development**  
 - ⚙️ Learning and implementing **MLOps workflows**  
 - 💡 Building projects that combine **AI + Web + Real-world impact**  
 
